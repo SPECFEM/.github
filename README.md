@@ -1,11 +1,7 @@
-# SPECFEM
+# This is us
 
-Hi, this is the **SPECFEM** github organization site to host a family of spectral-element code repositories. 
+This is a special repository to highlight a README.md on the main organisation site: https://github.com/SPECFEM
 
-![Earth](figures/earth_banner.jpg "Earth")
-
-We are dedicated to open-source development for the computational seismology community. If you want to follow and participate in the discussions on this site, here is a quick [setup guide for you](./docs/specfem_discussions.pdf)
-
-
-
+You will find the public README.md in the profile/ folder.
+Documents linked are in the docs/ folder, pictures are in the figures/ folder.
 
